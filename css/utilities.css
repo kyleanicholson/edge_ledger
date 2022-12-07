@@ -48,6 +48,10 @@
   border: 1px solid #fff;
 }
 
+
+
+/* Flex items */
+
 .flex-items {
   display:flex;
   text-align: center;
@@ -59,8 +63,8 @@
   padding:20px;
 }
 
-/* Flex columns */
 
+/* Flex columns */
 .flex-columns.flex-reverse .row {
   flex-direction: row-reverse;
 }
